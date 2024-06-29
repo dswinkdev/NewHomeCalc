@@ -1,5 +1,4 @@
 # New Home Calculator
-Know your mortgage payment before purchasing your new home.
 
 The `HouseCalc` program is designed to calculate the monthly mortgage payment for a home loan based on user input. The program also compares this payment against a series of additional interest rates.
 
